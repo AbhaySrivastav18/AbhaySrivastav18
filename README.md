@@ -1,20 +1,26 @@
-# Hi there, I'm Abhay 👋  
+# 👋 Hi there, I'm Abhay  
+
+<p align="center">
+  <a href="https://github.com/AbhaySrivastav18">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&lines=🌱+Always+Learning+Something+New;💻+DSA+%7C+Full+Stack+Developer;🚀+Exploring+Data+Science+%26+AI;✨+Open+to+Collaboration+%26+Projects!" alt="Typing SVG" />
+  </a>
+</p>  
 
 ---
 
 ## 👨‍💻 About Me  
-I’m a Final Year **B.Tech CSE Student** passionate about solving problems and exploring technology.  
-- Strong foundations in **C++ (DSA)** — my core strength  
-- Practical exposure in **Frontend Development**  
-- Currently exploring **Full Stack Development** to expand into data-driven problem solving  
-- Enthusiastic about continuous learning and improving problem-solving skills  
+- 🎓 Final Year **B.Tech CSE Student**  
+- 💡 Strong foundations in **C++ (DSA)** — my core strength  
+- 🎨 Practical exposure in **Frontend Development**  
+- 🌐 Exploring **Full Stack Development** & **Data Science (learning)**  
+- ⚡ Enthusiastic about continuous learning & problem-solving  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** C++, Python, C  
-- **Core Areas:** Data Structures & Algorithms, Full Stack Development, Data Science (Learning)  
-- **Tools/Platforms:** Linux, Git & GitHub, SQL  
+- **Languages:** 🐍 Python | 💻 C++ | 🔣 C  
+- **Core Areas:** 📊 DSA | 🌍 Full Stack Development | 📈 Data Science (learning)  
+- **Tools/Platforms:** 🐧 Linux | 🔧 Git & GitHub | 🗄️ SQL  
 
 ---
 
@@ -26,28 +32,25 @@ I’m a Final Year **B.Tech CSE Student** passionate about solving problems and 
 ---
 
 ## 🎯 Current Focus  
-- Sharpening **DSA problem-solving**  
-- Building small **Full Stack projects**  
+- 🔑 Sharpening **DSA problem-solving**  
+- 🛠️ Building small but impactful **Full Stack projects**  
 
 ---
 
 ## ⚡ Fun Extras  
 
-**Random Dev Quote:**  
+**💬 Random Dev Quote**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
-**🏆 GitHub Trophies**  
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbhaySrivastav18&theme=tokyonight&margin-w=10&margin-h=10)  
-
-**🐍 Contribution Graph Snake:**  
+**🐍 Contribution Graph Snake**  
 ![Snake animation](https://github.com/AbhaySrivastav18/AbhaySrivastav18/blob/output/github-contribution-grid-snake.svg)  
 
-**👀 Profile Views:**  
+**👀 Profile Views**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbhaySrivastav18&label=Profile%20Views&color=blue&style=flat)  
 
 ---
 
-## 🤝 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Portfolio / Website](https://yourwebsite.com)  
-- [Email](mailto:your.email@example.com)  
+## 🌐 Connect with Me  
+- [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [🌍 Portfolio / Website](https://yourwebsite.com)  
+- [📧 Email](mailto:your.email@example.com)  
