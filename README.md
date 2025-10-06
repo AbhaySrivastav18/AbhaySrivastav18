@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://github.com/AbhaySrivastav18">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=FF5733&center=true&vCenter=true&multiline=true&width=700&lines=🌱+Always+Learning+Something+New;💻+DSA+%7C+Full+Stack+Developer;🚀+Exploring+Data+Science+%26+AI;✨+Open+to+Collaboration+%26+Projects!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=🌱+Always+Learning+Something+New;🎓+Final+Year+B.Tech+CSE+Student&colors=FF5733,33FF57,3357FF,F1C40F,8E44AD" alt="Typing SVG" />
   </a>
-</p>  
+</p>
 
 ---
 
