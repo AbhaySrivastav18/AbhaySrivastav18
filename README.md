@@ -88,7 +88,8 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 **🐍 Contribution Graph Snake**  
-![Snake animation](https://github.com/AbhaySrivastav18/AbhaySrivastav18/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/AbhaySrivastav18/AbhaySrivastav18/blob/output/github-contribution-grid-snake.svg)
+  
 
 **👀 Profile Views**  
 ![Visitor Count](https://komarev.com/ghpvc/?username=AbhaySrivastav18&label=Profile%20Views&color=blue&style=flat)  
