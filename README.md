@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/AbhaySrivastav18">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=🎓+Final+Year+B.Tech+CSE+Student;🌱+Always+Learning+Something+New;A+|+⚡+DSA+|+💻+Frontend+|+📊+Data+Science+Enthusiast&color=00FF00" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=1000&lines=🎓+Final+Year+B.Tech+CSE+Student;🌱+Always+Learning+Something+New;A+|+⚡+DSA+|+💻+Frontend+|+📊+Data+Science+Enthusiast&color=9B59B6" alt="Typing SVG" />
   </a>
 </p>
 
