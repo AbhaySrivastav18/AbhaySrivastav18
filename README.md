@@ -88,6 +88,17 @@
 
 
 ## 🌐 Connect with Me  
-- [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [🌍 Portfolio / Website](https://yourwebsite.com)  
-- [📧 Email](mailto:your.email@example.com)  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhay-srivastav-9b5445298/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="srivastavanuj567@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Abhay_Srivastav/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  
+</p>
+
