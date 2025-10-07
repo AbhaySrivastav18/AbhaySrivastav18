@@ -81,20 +81,8 @@
 - 🛠️ Building small but impactful **Full Stack projects**  
 
 ---
-
-## ⚡ Fun Extras  
-
-**💬 Random Dev Quote**  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
-**🐍 Contribution Graph Snake**  
-![Snake animation](https://github.com/AbhaySrivastav18/AbhaySrivastav18/blob/output/github-contribution-grid-snake.svg)
-  
-
-**👀 Profile Views**  
-![Visitor Count](https://komarev.com/ghpvc/?username=AbhaySrivastav18&label=Profile%20Views&color=blue&style=flat)  
-
----
+## 🧩 LeetCode Stats  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Crypt0xAyush?theme=tokyonight&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Abhay_Srivastav/)
 
 ## 🌐 Connect with Me  
 - [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin)  
