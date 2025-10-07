@@ -82,7 +82,10 @@
 
 ---
 ## 🧩 LeetCode Stats  
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Crypt0xAyush?theme=tokyonight&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Abhay_Srivastav/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Abhay_Srivastav?theme=tokyonight&font=Fira%20Code&ext=contest)](https://leetcode.com/u/Abhay_Srivastav/)
+
+---
+
 
 ## 🌐 Connect with Me  
 - [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin)  
